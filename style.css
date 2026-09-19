@@ -1,0 +1,18 @@
+body{
+    background-color: orangered;
+}
+.head{
+    color: darkblue;
+}
+#bg-lime{
+    background-color: lime;
+    color: red;
+}
+p{
+    color: white;
+}
+#para{
+    color: black;
+    font-size 24px;
+}
+
